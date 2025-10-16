@@ -16,7 +16,7 @@
 - ⛂ Peças brancas - (João)
 - ⛀ Peças pretas - (Miguel)
 
-# Total de peças: 22
+# Total de peças: 23
 
 # Histórico Peças Perdidas:
 
