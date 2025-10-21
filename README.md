@@ -7,18 +7,18 @@
 | 6 |   |   |   |⛂ |   | ⛂ |   |   |
 | 5 |⛀ |   |   |   |⛂ |   |⛂  |   |
 | 4 |   |⛀ |   |⛀ |   |   |   |⛀  |
-| 3 | ⛂|   |⛀ |   |⛀   |   |⛀ |   |
-| 2 |   | ⛀|   | |   |   |   | ⛀|
-| 1 |⛀ |   |  |  | ⛀|   | ⛀ |   |
+| 3 |   |   |⛀ |   |⛀ |   |⛀  |   |
+| 2 |   |   |   |   |   |   |   | ⛀|
+| 1 |⛀ |   | ⛂ |  | ⛀|   | ⛀ |   |
 
 **Legenda**
 
 - ⛂ Peças brancas - (João)
 - ⛀ Peças pretas - (Miguel)
 
-# Total de peças: 20
+# Total de peças: 19
 
 # Histórico Peças Perdidas:
 
 - João: 2
-- Miguel: 2
+- Miguel: 3
